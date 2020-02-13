@@ -1313,7 +1313,7 @@
             "symbolic_name": "audit_log"
         },
         {
-            "file": "/etc/cloud/cloud.cfg.d/*.cfg",
+            "file": "/etc/cloud/cloud.cfg.d/()*.cfg",
             "pattern": [],
             "symbolic_name": "cloud_init_custom_network"
         },
